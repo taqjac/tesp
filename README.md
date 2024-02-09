@@ -5,6 +5,7 @@ This is a curated list of tools to help students, teachers, researchers, or acad
 - Obsidian
 - Logseq
 - Zettlr
+- Trilium
 
 ## Reference Management 
 
